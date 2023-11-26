@@ -1,4 +1,5 @@
 {
+  "name": "discord-ws-base",
   "main": "index.js",
   "scripts": {
     "build": "tsc",
